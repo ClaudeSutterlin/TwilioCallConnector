@@ -3,11 +3,17 @@ TwilioCallConnector
 
 A chrome extension that will connect you to your conference call, then call you.
 
+![ScreenShot](https://raw.github.com/ClaudeSutterlin/TwilioCallConnector/master/ss1.png)
+
 Firstly, you'll need to create an account at Twilio.com, they will provide you three bits of important information that you'll need: AccountSid, AuthToken, and your Phone Number. Once you have these, go ahead and modify connector.php with these values. Additionally, you'll need to know where you're installing the PHP scripts and enter that in the connector.php file (ex. http://www.claudesutterlin.com/twilio/) .
+
+![ScreenShot](https://raw.github.com/ClaudeSutterlin/TwilioCallConnector/master/ss2.png)
 
 Next, go ahead and copy the files over to the web server.
 
 Now, install the chrome extension manually. 
+
+![ScreenShot](https://raw.github.com/ClaudeSutterlin/TwilioCallConnector/master/ss3.png)
 
 -Copied from http://developer.chrome.com/extensions/getstarted.html
 
@@ -20,3 +26,5 @@ Click Load unpacked extension… to pop up a file-selection dialog.
 Navigate to the directory in which your extension files live, and select it.
 
 Access the extension, enter all fields and start the call.
+
+![ScreenShot](https://raw.github.com/ClaudeSutterlin/TwilioCallConnector/master/ss1.png)
