@@ -1,0 +1,14 @@
+{
+  "name": "ConnectMe Conference Call Connector",
+  "description": "Connect to conference calls without the hassle",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*", "storage"
+  ],
+  "browser_action": {
+      "default_title": "Connect to call",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
