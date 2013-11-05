@@ -1,7 +1,7 @@
 TwilioCallConnector
 ===================
 
-A chrome extension that will connect you to your conference call, then call you.
+A chrome extension that will connect you to your conference call, then call you. I'm using the trial version of Twilio, so it's free (although there's a small nag message when the call starts).
 
 ![ScreenShot](https://raw.github.com/ClaudeSutterlin/TwilioCallConnector/master/ss1.PNG)
 
